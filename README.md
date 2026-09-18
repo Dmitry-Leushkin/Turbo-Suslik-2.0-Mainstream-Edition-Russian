@@ -14,7 +14,7 @@
 
 ## Скачать
 
-Файлы PDF и EPUB будут опубликованы на странице [Releases](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-Russian/releases) вместе с первым релизом.
+Файлы PDF и EPUB доступны на [странице последнего релиза](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-Russian/releases/latest).
 
 ## Официальные сайты
 
