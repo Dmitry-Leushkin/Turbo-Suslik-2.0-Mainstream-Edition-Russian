@@ -12,6 +12,10 @@
 
 Перед использованием описанных в книге практик прочитайте [Disclaimer](book/01-вступление/03-disclaimer.md).
 
+## Техническое объяснение
+
+[Прочитать кибернетическую модель работы Турбо-Суслика](cybernetic-model.md)
+
 ## Скачать
 
 Файлы PDF и EPUB доступны на [странице последнего релиза](https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-Russian/releases/latest).
