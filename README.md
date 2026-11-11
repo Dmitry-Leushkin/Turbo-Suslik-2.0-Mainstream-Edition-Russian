@@ -62,6 +62,7 @@ PDF и EPUB доступны на [странице последнего рел�
 
 * [Официальный сайт Турбо-Суслика](https://turbo-suslik.ru/)
 * [Mind ReFactory](https://mindrefactory.dev/)
+* [HOF Research](https://hof-research.org/)
 
 ## Авторские права и использование
 
