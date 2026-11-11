@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://doi.org/10.5281/zenodo.24138277"><img src="https://zenodo.org/badge/1375803269.svg" alt="DOI"></a>
+</p>
+
 # Турбо-Суслик 2.0: Mainstream Edition
 
 **Дмитрий Леушкин**

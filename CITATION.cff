@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this framework or protocol documentation in your research, please cite it using these metadata."
+type: software
+title: "Турбо-Суслик 2.0: Russian Mainstream Edition"
+version: "2.0"
+date-released: "2026-09-01"
+url: "https://mindrefactory.dev"
+repository-code: "https://github.com/Dmitry-Leushkin/Turbo-Suslik-2.0-Mainstream-Edition-Russian"
+doi: "10.5281/zenodo.24138278"
+authors:
+  - family-names: "Leushkin"
+    given-names: "Dmitry"
+    orcid: "https://orcid.org/0009-0002-8682-9647"
+keywords:
+  - "cognitive-architecture"
+  - "protocol-based-processing"
+  - "self-regulation"
+  - "human-optimization-framework"
+  - "semantic-regulation"
+abstract: >-
+  Турбо-Суслик представляет собой систему самостоятельной работы с устойчивыми
+  эмоциональными реакциями, убеждениями, страхами, внутренними конфликтами и
+  повторяющимися поведенческими паттернами. Для работы используются
+  структурированные текстовые инструкции, которые называются протоколами. Идея
+  системы не в том, чтобы заменить «плохие» мысли «хорошими». Протокол
+  используется для обработки воспоминаний, эмоций, убеждений, телесных реакций и
+  связанных с ними элементов, которые продолжают поддерживать старую реакцию.
+preferred-citation:
+  type: report
+  title: "Language-Based Cognitive Interventions: A Scoping Review of Linguistic Cues, Task-Framing, and Self-Directed Cognitive Change"
+  authors:
+    - family-names: "Leushkin"
+      given-names: "Dmitry"
+  doi: "10.2139/ssrn.7307398"
+  year: 2026
+  institution:
+    name: "Human Optimization Framework (HOF Research)"
+    website: "https://hof-research.org"
