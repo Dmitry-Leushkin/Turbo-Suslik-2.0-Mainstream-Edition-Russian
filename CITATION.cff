@@ -25,14 +25,3 @@ abstract: >-
   системы не в том, чтобы заменить «плохие» мысли «хорошими». Протокол
   используется для обработки воспоминаний, эмоций, убеждений, телесных реакций и
   связанных с ними элементов, которые продолжают поддерживать старую реакцию.
-preferred-citation:
-  type: report
-  title: "Language-Based Cognitive Interventions: A Scoping Review of Linguistic Cues, Task-Framing, and Self-Directed Cognitive Change"
-  authors:
-    - family-names: "Leushkin"
-      given-names: "Dmitry"
-  doi: "10.2139/ssrn.7307398"
-  year: 2026
-  institution:
-    name: "Human Optimization Framework (HOF Research)"
-    website: "https://hof-research.org"
